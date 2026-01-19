@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الصلاة الإسلامي</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_prayer_times">مواقيت الصلاة</string>
+    <string name="nav_quran">القرآن الكريم</string>
+    <string name="nav_tasbih">السبحة</string>
+    <string name="nav_azkar">الأذكار</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_names">أسماء الله الحسنى</string>
+    <string name="nav_settings">الإعدادات</string>
+    
+    <!-- Prayer Times -->
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+    
+    <!-- Common -->
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="time_remaining">الوقت المتبقي</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="stop">إيقاف</string>
+    <string name="settings">الإعدادات</string>
+    <string name="about">حول التطبيق</string>
+    
+    <!-- Tasbih -->
+    <string name="tasbih_count">العدد</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="subhanallah">سبحان الله</string>
+    <string name="alhamdulillah">الحمد لله</string>
+    <string name="allahu_akbar">الله أكبر</string>
+    
+    <!-- Azkar -->
+    <string name="morning_azkar">أذكار الصباح</string>
+    <string name="evening_azkar">أذكار المساء</string>
+    <string name="sleep_azkar">أذكار النوم</string>
+    <string name="after_prayer_azkar">أذكار بعد الصلاة</string>
+    
+    <!-- Settings -->
+    <string name="notifications">الإشعارات</string>
+    <string name="auto_adhan">الأذان التلقائي</string>
+    <string name="vibration">الاهتزاز</string>
+    <string name="theme">المظهر</string>
+    <string name="language">اللغة</string>
+    <string name="location">الموقع</string>
+    
+    <!-- Notifications -->
+    <string name="adhan_notification_title">أذان %1$s</string>
+    <string name="adhan_notification_body">حان وقت صلاة %1$s</string>
+    <string name="notification_channel_name">إشعارات الصلاة</string>
+    <string name="notification_channel_description">إشعارات مواقيت الصلاة والأذان</string>
+</resources>
